@@ -1,0 +1,3 @@
+fill('green')
+p = stamp('alien8')
+p.tap =  explode
