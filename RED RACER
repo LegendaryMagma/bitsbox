@@ -1,0 +1,9 @@
+fill('parking lot')
+size = 150
+speed = 500
+c = stamp('car8',size)
+
+function drag() {
+ c.move(x,y,speed)
+ c.aim(x,y)
+}
