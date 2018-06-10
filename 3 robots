@@ -1,0 +1,6 @@
+r = stamp ('robot17', 300)
+r.tap = dance
+r = stamp ('robot19', 200)
+r.tap = dance
+r = stamp ('robot15',96)
+r.tap = pop
